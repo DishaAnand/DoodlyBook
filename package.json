@@ -12,9 +12,12 @@
     "@babel/preset-env": "^7.23.6",
     "@fortawesome/free-solid-svg-icons": "^6.5.1",
     "@fortawesome/react-fontawesome": "^0.2.0",
+    "classnames": "^2.3.2",
     "next": "^14.0.4",
     "react": "^18",
-    "react-dom": "^18"
+    "react-dom": "^18",
+    "react-redux": "^9.0.4",
+    "redux-thunk": "^3.1.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.0.1",
