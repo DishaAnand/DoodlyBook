@@ -10,7 +10,7 @@ import {
 } from '@fortawesome/free-solid-svg-icons'
 
 import styles from './index.module.css'
-import { menuItemClick,actionItemClick } from './menuSlice';
+import { menuItemClick,actionItemClick } from '../../slice/menuSlice';
 // eslint-disable-next-line import/no-unresolved
 import { MENU_ITEMS } from '@/constants';
 const Menu = () => {
