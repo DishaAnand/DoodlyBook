@@ -6,8 +6,8 @@ const initialState = {
     color: COLORS.BLACK,
     size: 3,
   },
-  [MENU_ITEMS.PENCIL]:{
-    color: COLORS.BLACK,
+  [MENU_ITEMS.ERASER]:{
+    color: COLORS.WHITE,
     size: 3,
   },
   [MENU_ITEMS.UNDO]:{},

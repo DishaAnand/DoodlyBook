@@ -8,8 +8,8 @@ import { changeColor,changeBrushSize } from '@/slice/toolboxSlice'
 const Toolboxs = () =>{
   const dispatch = useDispatch()
   const activeMenuItem = useSelector(state =>state.menu.activeMenuItem)
-  const showStrokeToolOption = activeMenuItem == MENU_ITEMS.PENCIL
-  const showBrushToolOption = activeMenuItem == MENU_ITEMS.PENCIL || MENU_ITEMS.ERASER
+  const showStrokeToolOption = activeMenuItem === MENU_ITEMS.PENCIL
+  const showBrushToolOption = activeMenuItem === MENU_ITEMS.PENCIL || activeMenuItem === MENU_ITEMS.ERASER
   const {color,size } = useSelector(state =>state.toolbox[activeMenuItem])
 
   const updateBrushSize = (e) =>{

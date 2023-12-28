@@ -1,6 +1,7 @@
 import { useRef } from "react"
 import { useEffect, useLayoutEffect } from "react"
 import { useSelector , useDispatch } from 'react-redux'
+import { MENU_ITEMS } from "../../constants"
 
 const Board = () => {
   const canvasRef = useRef(null)
