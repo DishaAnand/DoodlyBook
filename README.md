@@ -55,4 +55,5 @@ To run DoodlyBook locally, follow these steps:
    ```sh
    npm run dev
      or
-  yarn dev
+   yarn dev
+3. Open http://localhost:3000 in your browser to access the application.
