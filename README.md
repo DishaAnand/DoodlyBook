@@ -46,6 +46,13 @@ To run DoodlyBook locally, follow these steps:
 
 ### Installation
 
-1. Clone the repository:
+1. Install dependencies:
    ```sh
-   git clone https://github.com/dishaanand/doodlybook.git
+   npm install
+     or
+   yarn install
+2. Start the development server:
+   ```sh
+   npm run dev
+     or
+  yarn dev
