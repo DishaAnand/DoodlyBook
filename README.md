@@ -2,6 +2,17 @@
 
 DoodlyBook is a collaborative drawing web application that allows users to create and share interactive sketches in real-time. Built with Next.js, it leverages WebSockets for live communication among users, providing a dynamic and engaging drawing experience.
 
+<br>
+
+<p align="center"">
+  <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
+  <img src="https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white" />
+</p>
+
 ## Features
 
 - Real-time collaborative drawing with multiple users.
@@ -10,7 +21,7 @@ DoodlyBook is a collaborative drawing web application that allows users to creat
 
 ## Deployed Link
 
-- https://sketchbook-gxsx.vercel.app/
+- https://doodlybook.vercel.app/
 
 ## Technology Stack
 
