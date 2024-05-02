@@ -29,7 +29,6 @@ DoodlyBook is built using a range of modern web technologies and libraries:
 
 - **Frontend**
   - **Next.js**: A React framework for building single-page JavaScript applications.
-  - **React**: A JavaScript library for building user interfaces.
   - **Tailwind CSS**: A utility-first CSS framework for rapidly building custom designs.
 
 - **State Management**
