@@ -14,7 +14,6 @@ DoodlyBook is a collaborative drawing web application that allows users to creat
 </p>
 
 ## Features
-
 - Real-time collaborative drawing with multiple users.
 - A selection of tools and colors for drawing.
 - Responsive design for desktop and mobile device compatibility.
