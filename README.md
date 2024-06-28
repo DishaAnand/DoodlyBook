@@ -19,14 +19,20 @@ DoodlyBook is a collaborative drawing web application that allows users to creat
   <img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" />
 </p>
 
+## Demo Video
+
+https://github.com/DishaAnand/DoodlyBook/assets/102431437/25a76513-2f64-4f8b-9162-d251615b4dd6
+
+
+## Deployed Link
+
+- https://doodlybook.vercel.app/
+
 ## Features
 - Real-time collaborative drawing with multiple users.
 - A selection of tools and colors for drawing.
 - Responsive design for desktop and mobile device compatibility.
 
-## Deployed Link
-
-- https://doodlybook.vercel.app/
 
 ## Technology Stack
 
